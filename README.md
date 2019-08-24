@@ -1,7 +1,7 @@
 # Deep Learning based Intrusion Detection on NSL-KDD
 
 The presented model is a neural network solution built with Keras’s Sequential API and contains 
-two experimental models. The model is benchmarked with the NSL-KDD dataset (improved version of the KDD CUP 99 dataset).
+two experimental models. The model is benchmarked with the NSL-KDD dataset (Improved version of the KDD CUP 99 Dataset).
 
 ## Tools
 
