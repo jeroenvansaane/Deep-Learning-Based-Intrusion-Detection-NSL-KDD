@@ -16,12 +16,12 @@ two experimental models. The model is benchmarked with the NSL-KDD dataset (impr
 
 ## Running the Application
 
-Run inside jupyter notebook after installing required libraries. 
+Run inside Jupyter Notebook after installing required libraries. 
 
 ## Experimental Results
 
-Classification report that contains accuracy per class / attack category available on request. 
+Classification report that contains accuracy per class / attack category is available on request. 
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE.md file for details
+This project is licensed under the MIT License - see the LICENSE file for details
